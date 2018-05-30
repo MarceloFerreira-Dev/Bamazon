@@ -1,12 +1,12 @@
 {
-  "name": "week-12-homework",
+  "name": "homework-10",
   "version": "1.0.0",
   "description": "mySQL and Nodejs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Kelly Mersereau",
+  "author": "Marcelo Ferreira",
   "license": "ISC",
   "dependencies": {
     "cli-table": "^0.3.1",
